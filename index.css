@@ -18,7 +18,7 @@ nav ul li:hover > ul {
 
 nav ul {
 	background: Green;
-	padding: 0 20px;
+	padding: 0px 20px;
 	list-style: none;
 	position: relative;
 	display: inline-table;
