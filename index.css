@@ -2,15 +2,19 @@ html {
 	
 }
 
-/* Classes and IDs */
+/* IDs */
 
 #title {
 	float: center;
 	text-align: center;
 }
 
+/* Classes */
+
 .page {
 	background-color: rgba(51, 102, 204, 0.6);
+	width: 50%;
+	align: center;
 }
 
 /* DropDown Menu */
