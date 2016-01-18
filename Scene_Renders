@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Links -->
+		<link rel="stylesheet" href="stylesheet.css">
+		<link href='https://fonts.googleapis.com/css?family=Monoton' rel='stylesheet' type='text/css'>
+	<title>Ohmast Studios - Scene Renders</title>
+</head>
+	<body>
+	<!-- Nav Bar Start -->
+		<nav>
+			<div>
+			
+				<h1 id="title">
+					Ohmast Studios
+				</h1>
+				
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Films</a>
+					 <ul>
+						<li><a href="shorts">Shorts</a></li>
+						<li><a href="extras">Extras</a></li>
+					 </ul>
+					</li>
+					<li><a href="#">Renders</a>
+					 <ul>
+						<li><a href="real_images">Real Images</a></li>
+						<li><a href="scene_renders">Scene Renders</a></li>
+					 </ul>
+					</li>
+					<li><a href="#">About</a></li>
+				</ul>
+			</div>
+		</nav>
+		<!-- Nav Bar End -->
+		<!-- Content Start -->
+		<br>
+		<div id="content">
+			Real Image page
+		</div>
+	</body>
+</html>
