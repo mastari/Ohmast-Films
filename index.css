@@ -65,3 +65,7 @@ nav ul ul li a {
 nav ul ul li a:hover {
 	background: DarkSlateGray;
 }
+
+#title {
+	float: center;
+}
