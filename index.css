@@ -14,7 +14,7 @@ html {
 .page {
 	background-color: rgba(51, 102, 204, 0.6);
 	width: 50%;
-	align: center;
+	left: 25%;
 }
 
 /* DropDown Menu */
