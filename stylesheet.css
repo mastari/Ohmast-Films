@@ -1,5 +1,5 @@
 html {
-	
+	background: url(http://wallpapercave.com/wp/TgfLoHZ.jpg);
 }
 
 /* Classes */
@@ -27,6 +27,11 @@ nav {
 
 nav ul ul {
     display: none;
+}
+
+nav ul ul li {
+	float: none;
+	position: relative;
 }
 
 nav ul li:hover > ul {
