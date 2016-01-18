@@ -29,6 +29,11 @@ nav ul ul {
     display: none;
 }
 
+nav ul ul li {
+	float: none;
+	position: relative;
+}
+
 nav ul li:hover > ul {
     display: block;
 }
