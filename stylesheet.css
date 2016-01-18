@@ -5,7 +5,13 @@ html {
 /* Classes */
 
 .page {
-	
+
+}	
+/* IDs */
+
+#title {
+	float: center;
+	text-align: center;
 }
 
 /* DropDown Menu */
@@ -75,3 +81,9 @@ title {
 
 
 }
+
+
+nav li:hover ul {
+	display: block;
+}
+
