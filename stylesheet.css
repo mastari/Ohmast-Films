@@ -35,7 +35,7 @@ nav ul li:hover > ul {
 }
 
 nav ul {
-    padding 0 20px;
+    padding: 0 20px;
     list-style: none;
     position: relative;
     display: inline-table;
@@ -75,21 +75,11 @@ nav ul ul li a {
 }
 
 nav ul ul li a:hover {
-<<<<<<< HEAD:index.css
     background: rgba(81, 91, 231, 0.6);
     color: rgb(153, 255, 204);
-}
-=======
 	background: DarkSlateGray;
 }
-title {
-
-
-}
-
 
 nav li:hover ul {
 	display: block;
 }
-
->>>>>>> 6335a76c723ee64877c2dde78f99958d3d036851:stylesheet.css
