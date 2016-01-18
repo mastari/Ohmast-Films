@@ -2,6 +2,12 @@ html {
 	
 }
 
+/* Classes */
+
+.page {
+	
+}
+
 /* DropDown Menu */
 
 nav {
@@ -64,4 +70,8 @@ nav ul ul li a {
 
 nav ul ul li a:hover {
 	background: DarkSlateGray;
+}
+title {
+
+
 }
