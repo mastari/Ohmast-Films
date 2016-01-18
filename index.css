@@ -2,6 +2,13 @@ html {
 	
 }
 
+/* Classes and IDs */
+
+#title {
+	float: center;
+	text-align: center;
+}
+
 /* DropDown Menu */
 
 nav {
